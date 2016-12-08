@@ -152,4 +152,5 @@ visualization_msgs/MenuEntry
 mavros_msgs/HilStateQuaternion
 mavros_msgs/HilSensor
 mavros_msgs/HilActuatorControls
+mavros_msgs/HilControls
 mavros_msgs/HilGPS
