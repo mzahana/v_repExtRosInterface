@@ -154,3 +154,4 @@ mavros_msgs/HilSensor
 mavros_msgs/HilActuatorControls
 mavros_msgs/HilControls
 mavros_msgs/HilGPS
+mavros_msgs/State
